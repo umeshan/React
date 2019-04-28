@@ -1,0 +1,12 @@
+.usersDetails {
+  width:auto;
+  height: 600px;
+  display: block;
+  overflow: scroll;
+}
+
+.justify-content-center{
+    display:table;
+    margin:0 auto;
+    margin-top: 34px;
+}
